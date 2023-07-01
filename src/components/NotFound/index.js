@@ -19,9 +19,7 @@ const NotFound = () => (
               alt="not found"
             />
             <h1 className="home-text-not">Lost your Way</h1>
-            <p className="home-para-not">
-              We can not seem to find the page you are looking for.
-            </p>
+            <p className="home-para-not">We cannot seem to find the page</p>
           </div>
         </div>
       )
