@@ -1,0 +1,32 @@
+.navbar-container {
+  display: flex;
+  width: 99%;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #1e293b;
+}
+.home-about-container {
+  display: flex;
+}
+.logos {
+  height: 60px;
+  width: 60px;
+  padding: 5px;
+}
+.nav-text {
+  font-size: 19px;
+  font-weight: 600;
+  margin-right: 10px;
+}
+.nav-link {
+  text-decoration: none;
+}
+.toggle-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.kj {
+  background-color: black;
+  color: white;
+}

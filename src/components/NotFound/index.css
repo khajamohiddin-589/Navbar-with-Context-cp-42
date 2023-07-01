@@ -1,0 +1,30 @@
+.nav-home-container-not {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+}
+.home-text-not {
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.home-container-not {
+  text-align: center;
+  margin-top: 10vh;
+}
+.home-img-not {
+  height: 300px;
+  width: 300px;
+}
+.home-para-not {
+  text-align: center;
+  font-size: 19px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.kj-not-found {
+  background-color: black;
+  color: white;
+}
